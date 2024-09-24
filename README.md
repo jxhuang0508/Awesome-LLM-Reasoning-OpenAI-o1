@@ -33,6 +33,8 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
   - Discuss advancements in improving reasoning with LLMs, focusing on how structured thinking processes, like chain-of-thought reasoning, can significantly enhance complex problem-solving.
 - **[OpenAI] OpenAI o1 Mini: Advancing Cost-Efficient Reasoning** [[Link](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)]
   - Introduce the OpenAI o1-mini model, a cost-effective solution optimized for coding and reasoning, offering a balance between performance and affordability.
+- **[Nathan Lambert] OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference** [[Link](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)]
+- **[Nathan Lambert] Reverse engineering OpenAI’s o1** [[Link](https://substack.com/@natolambert/p-148935394)]
 
 ### Talks
 
