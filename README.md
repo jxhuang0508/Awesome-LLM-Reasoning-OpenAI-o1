@@ -38,7 +38,21 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
 
 ### Talks
 
-### Discussions on Social Media (Twitter, Zhihu, Reddit, etc.)
+### Social Media Posts (Twitter, Zhihu, Reddit, etc.)
+
+#### Twitter
+
+- **[OpenAI Developers] Ask Me Anything** [[Link](https://x.com/OpenAIDevs/status/1834608585151594537)]
+- **[Jason Wei] Super excited to finally share what I have been working on at OpenAI!** [[Link](https://x.com/_jasonwei/status/1834278706522849788)]
+
+#### Reddit
+
+- **OpenAI's new model o1 really can reason** [[Link](https://www.reddit.com/r/ChatGPT/comments/1ffa5bb/openais_new_model_o1_really_can_reason_wow/)]
+- **OpenAI releases o1, its first model with ‘reasoning’ abilities** [[Link](https://www.reddit.com/r/technology/comments/1ff8mey/openai_releases_o1_its_first_model_with_reasoning/)]
+- **OpenAI announces o1** [[Link](https://www.reddit.com/r/singularity/comments/1ff7mod/openai_announces_o1/)]
+
+#### Zhihu
+
 
 ## Awesome Papers
 
