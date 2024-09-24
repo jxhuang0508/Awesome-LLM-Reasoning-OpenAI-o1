@@ -47,16 +47,20 @@ The process to submit a pull request is as follows:
 - a. Fork the project into your own repository.
 - b. Add the Title, Paper link, Conference, Project/Code link in `README.md` using the following format:
 ```
-  |[Title](Paper Link)|Conference|Date|[Code](Code link)|[Demo](Demo link)|
+  |[Title](Paper Link)|Affiliation|Venue|[Code](Code link)|[Demo](Demo link)|
 ```
 - c. Submit the pull request to this branch.
 
 ### Learning-based Reasoning
 
-| Title                                             |  Venue | Date | Code | Demo |                                  
-|---------------------------------------------------|:------:|:----:|:----:|:----:|
-|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|arXiv|2024-06-26|-|-|
+| Title                                             |Affiliation | Venue | Code | Demo |                                  
+|---------------------------------------------------|:----------:|:-----:|:----:|:----:|
+|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|Noah’s Ark Lab|arXiv 2024|-|-|
 
 
 
 ### Prompt Engineering-based Reasoning
+| Title                                             |  Affiliation | Venue |Code | Demo |                                  
+|---------------------------------------------------|:------------:|:-----:|:---:|:----:|
+|[**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)|Google Research|NeurIPS 2022|-|-|
+
