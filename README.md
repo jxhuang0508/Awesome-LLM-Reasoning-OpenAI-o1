@@ -4,6 +4,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
+This repository explores recent advancements in reasoning with LLMs, starting from conventional methods like Chain-of-Thought (CoT) prompting to the latest innovations, such as OpenAI's learning-based CoT reasoning in the o1 model series. It provides a comprehensive overview of how reasoning with LLMs has evolved, inlcuding recent advancements, key research papers, and discussions from blogs, social media, and expert talks. 
+
 ---
 ### Table of Contents 
 - [Official OpenAI Documents](#official-openai-documents)
