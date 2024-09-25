@@ -63,20 +63,27 @@ The process to submit a pull request is as follows:
 - a. Fork the project into your own repository.
 - b. Add the Title, Paper link, Conference, Project/Code link in `README.md` using the following format:
 ```
-  |[Title](Paper Link)|Affiliation|Venue|[Code](Code link)|[Demo](Demo link)|
+  |[Title](Paper Link)|Affiliation|Venue|[Code](Code link)|
 ```
 - c. Submit the pull request to this branch.
 
 ### Learning-based Reasoning
 
-| Title                                             |Affiliation | Venue | Code | Demo |                                  
-|---------------------------------------------------|:----------:|:-----:|:----:|:----:|
-|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|Noah’s Ark Lab|arXiv 2024|-|-|
+| Title                                             |Affiliation | Venue | Code |                                  
+|---------------------------------------------------|:----------:|:-----:|:----:|
+|[**STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning**](https://arxiv.org/pdf/2203.14465)|Stanford University, Google|NeurIPS 2022|[Code](https://www.catalyzex.com/paper/star-bootstrapping-reasoning-with-reasoning/code)|
+|[**Large Language Models Can Self-Improve**](https://aclanthology.org/2023.emnlp-main.67/)|UIUC, Google|EMNLP 2023|-|
+|[**Training Chain-of-Thought via Latent-Variable Inference**](https://arxiv.org/abs/2312.02179)|Google|NeurIPS 2023|-|
+|[**V-STaR: Training Verifiers for Self-Taught Reasoners**](https://arxiv.org/pdf/2402.06457)|UdeM, Microsoft, UoE, Google|COLM 2024|-|
+|[**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**](https://arxiv.org/pdf/2403.09629)|Stanford University, Notbad AI Inc|arXiv 2024|-|
+|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|Noah’s Ark Lab|arXiv 2024|-|
+
+
 
 
 
 ### Prompt Engineering-based Reasoning
-| Title                                             |  Affiliation | Venue |Code | Demo |                                  
-|---------------------------------------------------|:------------:|:-----:|:---:|:----:|
-|[**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)|Google Research|NeurIPS 2022|-|-|
+| Title                                             |  Affiliation | Venue |Code |                                  
+|---------------------------------------------------|:------------:|:-----:|:---:|
+|[**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)|Google Research|NeurIPS 2022|-|
 
