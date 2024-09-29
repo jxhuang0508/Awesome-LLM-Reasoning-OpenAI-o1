@@ -10,6 +10,9 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
 ### Table of Contents 
 - [Official OpenAI Documents](#official-openai-documents)
 - [News about LLM Reasoning OpenAI o1](#news-about-llm-reasoning-openai-o1)
+  - [Blogs](#blogs)
+  - [Talks](#talks)
+  - [Social Media Posts](#social-media-posts)
 - [Awesome Papers](#awesome-papers)
   - [How to Contribute](#how-to-contribute)
   - [Learning-based Reasoning](#learning-based-reasoning)
@@ -38,7 +41,7 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
 
 ### <ins>Talks</ins>
 
-### <ins>Social Media Posts</ins> (Twitter, Zhihu, Reddit, etc.)
+### <ins>Social Media Posts</ins>
 
 #### Twitter
 
@@ -63,27 +66,49 @@ The process to submit a pull request is as follows:
 - a. Fork the project into your own repository.
 - b. Add the Title, Paper link, Conference, Project/Code link in `README.md` using the following format:
 ```
-  |[Title](Paper Link)|Affiliation|Venue|[Code](Code link)|
+  |[Title](Paper Link)|Venue|[Code](Code link)|
 ```
 - c. Submit the pull request to this branch.
 
 ### Learning-based Reasoning
 
-| Title                                             |Affiliation | Venue | Code |                                  
-|---------------------------------------------------|:----------:|:-----:|:----:|
-|[**STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning**](https://arxiv.org/pdf/2203.14465)|Stanford University, Google|NeurIPS 2022|[Code](https://www.catalyzex.com/paper/star-bootstrapping-reasoning-with-reasoning/code)|
-|[**Large Language Models Can Self-Improve**](https://aclanthology.org/2023.emnlp-main.67/)|UIUC, Google|EMNLP 2023|-|
-|[**Training Chain-of-Thought via Latent-Variable Inference**](https://arxiv.org/abs/2312.02179)|Google|NeurIPS 2023|-|
-|[**V-STaR: Training Verifiers for Self-Taught Reasoners**](https://arxiv.org/pdf/2402.06457)|UdeM, Microsoft, UoE, Google|COLM 2024|-|
-|[**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**](https://arxiv.org/pdf/2403.09629)|Stanford University, Notbad AI Inc|arXiv 2024|-|
-|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|Noah’s Ark Lab|arXiv 2024|-|
-
+| Title                                             | Venue | Code |                                  
+|---------------------------------------------------|:-----:|:----:|
+|[**STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning**](https://arxiv.org/pdf/2203.14465)|NeurIPS 2022|[Code](https://www.catalyzex.com/paper/star-bootstrapping-reasoning-with-reasoning/code)|
+|[**Large Language Models Can Self-Improve**](https://aclanthology.org/2023.emnlp-main.67/)|EMNLP 2023|-|
+|[**Training Chain-of-Thought via Latent-Variable Inference**](https://arxiv.org/abs/2312.02179)|NeurIPS 2023|-|
+|[**V-STaR: Training Verifiers for Self-Taught Reasoners**](https://arxiv.org/pdf/2402.06457)|COLM 2024|-|
+|[**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**](https://arxiv.org/pdf/2403.09629)|arXiv 2024|-|
+|[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|arXiv 2024|-|
+|[**Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**](https://arxiv.org/pdf/2406.14283)|arXiv 2024||
 
 
 
 
 ### Prompt Engineering-based Reasoning
-| Title                                             |  Affiliation | Venue |Code |                                  
-|---------------------------------------------------|:------------:|:-----:|:---:|
-|[**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)|Google Research|NeurIPS 2022|-|
+| Title                                             | Venue |Code |                                  
+|---------------------------------------------------|:------------:|:-----:|
+|[**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/abs/2201.11903)|NeurIPS 2022|-|
+|[**Large Language Models are Zero-Shot Reasoners**](https://arxiv.org/pdf/2205.11916)|NeurIPS 2022|-|
+|[**Automatic Chain of Thought Prompting in Large Language Models**](https://arxiv.org/abs/2210.03493)|arXiv 2022|[Code](https://github.com/amazon-research/auto-cot)|
+|[**Self-Consistency Improves Chain of Thought Reasoning in Language Models**](https://arxiv.org/abs/2203.11171)|ICLR 2023|-|
+|[**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/abs/2305.10601)|NeurIPS 2023|[Code](https://github.com/princeton-nlp/tree-of-thought-llm)|
+|[**Large Language Model Guided Tree-of-Thought**](https://arxiv.org/abs/2305.08291)|arXiv 2024|[Code](https://github.com/jieyilong/tree-of-thought-puzzle-solver)|
+|[**ART: Automatic multi-step reasoning and tool-use for large language models**](https://arxiv.org/pdf/2303.09014)|arXiv 2023|-|
+|[**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/pdf/2302.12246)|ACL 2024|[Code](https://github.com/shizhediao/active-prompt)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
