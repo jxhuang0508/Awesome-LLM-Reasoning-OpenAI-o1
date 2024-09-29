@@ -54,7 +54,6 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
 - **OpenAI releases o1, its first model with ‘reasoning’ abilities** [[Link](https://www.reddit.com/r/technology/comments/1ff8mey/openai_releases_o1_its_first_model_with_reasoning/)]
 - **OpenAI announces o1** [[Link](https://www.reddit.com/r/singularity/comments/1ff7mod/openai_announces_o1/)]
 
-#### Zhihu
 
 
 ## Awesome Papers
