@@ -21,38 +21,42 @@ This repository explores recent advancements in reasoning with LLMs, starting fr
 
 ## Official OpenAI Documents
 
-- **OpenAI o1 Hub** [[Link](https://openai.com/o1/)]
+- [**OpenAI o1 Hub**](https://openai.com/o1/)
   - Main page introducing the o1 series, including details about its capabilities, reasoning tasks, and usage limits.
-- **OpenAI o1 System Card** [[Link](https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf)]
+- [**OpenAI o1 System Card**](https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf)
   - A document outlining the safety evaluations, potential risks, and mitigations applied to the o1 model​.
-- **OpenAI Reasoning Guide** [[Link](https://platform.openai.com/docs/guides/reasoning)]
+- [**OpenAI Reasoning Guide**](https://platform.openai.com/docs/guides/reasoning)
   - A guide focusing on how OpenAI models can enhance reasoning tasks, explaining methods like chain-of-thought reasoning and how models handle complex problem-solving.
 
 ## News about LLM Reasoning OpenAI o1
 
 ### <ins>Blogs</ins>
 
-- **[OpenAI] Learning to Reason with LLMs** [[Link](https://openai.com/index/learning-to-reason-with-llms/)]
+- **[OpenAI]** [**Learning to Reason with LLMs**](https://openai.com/index/learning-to-reason-with-llms/)
   - Discuss advancements in improving reasoning with LLMs, focusing on how structured thinking processes, like chain-of-thought reasoning, can significantly enhance complex problem-solving.
-- **[OpenAI] OpenAI o1 Mini: Advancing Cost-Efficient Reasoning** [[Link](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)]
+- **[OpenAI]** [**OpenAI o1 Mini: Advancing Cost-Efficient Reasoning**](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)
   - Introduce the OpenAI o1-mini model, a cost-effective solution optimized for coding and reasoning, offering a balance between performance and affordability.
-- **[Nathan Lambert] OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference** [[Link](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)]
-- **[Nathan Lambert] Reverse engineering OpenAI’s o1** [[Link](https://substack.com/@natolambert/p-148935394)]
+- **[Nathan Lambert]** [**OpenAI’s Strawberry, LM self-talk, inference scaling laws, and spending more on inference**](https://www.interconnects.ai/p/openai-strawberry-and-inference-scaling-laws)
+- **[Nathan Lambert]** [**Reverse engineering OpenAI’s o1**](https://substack.com/@natolambert/p-148935394)
+- **[Nouha Dziri]** [**Have o1 Models Cracked Human Reasoning?**](https://substack.com/home/post/p-148782195)
 
 ### <ins>Talks</ins>
+
+- **[Noam Brown (OpenAI)]** [**Parables on the Power of Planning in AI: From Poker to Diplomacy**](https://www.youtube.com/watch?app=desktop&v=eaAonE58sLU)
+- **[Noam Brown, Ilge Akkaya and Hunter Lightman (OpenAI)]** [**Teaching LLMs to Reason Better**](https://www.youtube.com/watch?v=jPluSXJpdrA&t=1669s)
 
 ### <ins>Social Media Posts</ins>
 
 #### Twitter
 
-- **[OpenAI Developers] Ask Me Anything** [[Link](https://x.com/OpenAIDevs/status/1834608585151594537)]
-- **[Jason Wei] Super excited to finally share what I have been working on at OpenAI!** [[Link](https://x.com/_jasonwei/status/1834278706522849788)]
+- **[OpenAI Developers]** [**Ask Me Anything**](https://x.com/OpenAIDevs/status/1834608585151594537) - [[Summary]](https://twitter-thread.com/t/1834686946846597281)
+- **[Jason Wei]** [**Super excited to finally share what I have been working on at OpenAI!**](https://x.com/_jasonwei/status/1834278706522849788)
 
 #### Reddit
 
-- **OpenAI's new model o1 really can reason** [[Link](https://www.reddit.com/r/ChatGPT/comments/1ffa5bb/openais_new_model_o1_really_can_reason_wow/)]
-- **OpenAI releases o1, its first model with ‘reasoning’ abilities** [[Link](https://www.reddit.com/r/technology/comments/1ff8mey/openai_releases_o1_its_first_model_with_reasoning/)]
-- **OpenAI announces o1** [[Link](https://www.reddit.com/r/singularity/comments/1ff7mod/openai_announces_o1/)]
+- [**OpenAI's new model o1 really can reason**](https://www.reddit.com/r/ChatGPT/comments/1ffa5bb/openais_new_model_o1_really_can_reason_wow/)
+- [**OpenAI releases o1, its first model with ‘reasoning’ abilities**](https://www.reddit.com/r/technology/comments/1ff8mey/openai_releases_o1_its_first_model_with_reasoning/)
+- [**OpenAI announces o1**](https://www.reddit.com/r/singularity/comments/1ff7mod/openai_announces_o1/)
 
 
 
