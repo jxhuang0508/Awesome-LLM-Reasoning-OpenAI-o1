@@ -1,4 +1,4 @@
-# Awesome Learning to Reason with LLMs: From Prompt Engineering to OpenAI o1. Survey
+# Awesome Learning to Reason with LLMs: From Prompt Engineering to OpenAI o1 A Survey
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
