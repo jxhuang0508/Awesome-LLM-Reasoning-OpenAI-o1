@@ -100,6 +100,7 @@ The process to submit a pull request is as follows:
 |[**Large Language Model Guided Tree-of-Thought**](https://arxiv.org/abs/2305.08291)|arXiv 2024|[Code](https://github.com/jieyilong/tree-of-thought-puzzle-solver)|
 |[**ART: Automatic multi-step reasoning and tool-use for large language models**](https://arxiv.org/pdf/2303.09014)|arXiv 2023|-|
 |[**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/pdf/2302.12246)|ACL 2024|[Code](https://github.com/shizhediao/active-prompt)|
+|[**From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond**](https://arxiv.org/abs/2411.03590)|arXiv 2024|[Code](https://github.com/microsoft/promptbase)|
 
 
 
