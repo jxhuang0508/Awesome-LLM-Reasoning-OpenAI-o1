@@ -85,6 +85,9 @@ The process to submit a pull request is as follows:
 |[**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**](https://arxiv.org/pdf/2403.09629)|arXiv 2024|-|
 |[**MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time**](https://arxiv.org/pdf/2405.16265)|arXiv 2024|-|
 |[**Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**](https://arxiv.org/pdf/2406.14283)|arXiv 2024||
+|[**DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**](https://arxiv.org/abs/2501.12948)|arXiv 2025|[Code](https://github.com/deepseek-ai/DeepSeek-R1)|
+|[**Kimi k1.5: Scaling Reinforcement Learning with LLMs**](https://arxiv.org/abs/2501.12599)|arXiv 2025|-|
+|[**s1: Simple test-time scaling**](https://arxiv.org/abs/2501.19393)|arXiv 2025|[Code](https://github.com/simplescaling/s1)|
 
 
 
@@ -100,7 +103,6 @@ The process to submit a pull request is as follows:
 |[**Large Language Model Guided Tree-of-Thought**](https://arxiv.org/abs/2305.08291)|arXiv 2024|[Code](https://github.com/jieyilong/tree-of-thought-puzzle-solver)|
 |[**ART: Automatic multi-step reasoning and tool-use for large language models**](https://arxiv.org/pdf/2303.09014)|arXiv 2023|-|
 |[**Active Prompting with Chain-of-Thought for Large Language Models**](https://arxiv.org/pdf/2302.12246)|ACL 2024|[Code](https://github.com/shizhediao/active-prompt)|
-
 
 
 
